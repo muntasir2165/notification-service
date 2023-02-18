@@ -1,17 +1,11 @@
-# Codingly.io: Base Serverless Framework Template
+# Notification Service
 
-https://codingly.io
+A microservice that sends notifications via email to sellers and bidders of auctions
 
-## What's included
-* Folder structure used consistently across our projects.
-* [serverless-pseudo-parameters plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Allows you to take advantage of CloudFormation Pseudo Parameters.
-* [serverless-bundle plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Bundler based on the serverless-webpack plugin - requires zero configuration and fully compatible with ES6/ES7 features.
+## Getting Help
 
-## Getting started
-```
-sls create --name YOUR_PROJECT_NAME --template-url https://github.com/codingly-io/sls-base
-cd YOUR_PROJECT_NAME
-npm install
-```
+If help is needed to understand something in the repo or just to provide feedback/suggestion, please send an email to muntasir2165@hotmail.com
 
-You are ready to go!
+## Author
+
+**Muntasir Biojid** - [GitHub Profile](https://github.com/muntasir2165)
